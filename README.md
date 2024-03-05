@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+A stopwatch made using HTML, CSS and Javascript.
